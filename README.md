@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Images of App
+## Images of App
+
 ![App Screenshot](/images/App%20SS.png)
 ![App DropDown Selection Screenshot](/images/DropDown%20SS.png)
